@@ -1,0 +1,16 @@
+{
+  "name": "qa-practice-playwright",
+  "version": "1.0.0",
+  "description": "Playwright UI automation tests for QA Practice",
+  "scripts": {
+    "test": "playwright test",
+    "test:headed": "playwright test --headed",
+    "test:debug": "playwright test --debug",
+    "report": "playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.55.0",
+    "@types/node": "^22.20.1",
+    "typescript": "^5.7.0"
+  }
+}
