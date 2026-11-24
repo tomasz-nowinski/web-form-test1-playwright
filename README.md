@@ -10,13 +10,13 @@ Web UI Testing
 ## Test Coverage:
 Web Form
 
-TC01 – Successful form submission
-TC02 – Country dropdown validation
-TC03 – Clear form functionality
-TC04 – Communication options validation (Email and Phone radio buttons)
+- TC01 – Successful form submission
+- TC02 – Country dropdown validation
+- TC03 – Clear form functionality
+- TC04 – Communication options validation (Email and Phone radio buttons)
 
 
-Install dependencies:
+## Install dependencies:
 npm install
 
 Run all tests:
